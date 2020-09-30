@@ -1,0 +1,46 @@
+Columns,Description
+Player_id,Unique player identifier with draft year followed by name.
+Year_x,Year player was drafted.
+Rnd,Round number of the NFL Draft player was selected.
+Pick,Pick number of the NFL Draft player was selected.
+Tm,Team that drafted player.
+Player,Name of player
+HOF,Whether player was selected to the Hall of Fame or not
+Pos,Position of player
+Position Standard,Position of player
+First4AV,First 4 years approximate value of player 
+Age,Age of player
+To,Last year player competed in the NFL
+AP1,Number of All-Pro selections
+PB,Number of Pro Bowl selections
+St,Number of years player started for their team
+CarAV,Career approximate value 
+DrAV,approximate value accumulated for the team that drafted the player
+G,games played
+Cmp,Pass completions
+Pass_Att,Pass attempts
+Pass_Yds,Pass Yards
+Pass_TD,Passing Touchdowns
+Pass_Int,Passing Interceptions
+Rush_Att,Rushing attempts
+Rush_Yds,Rushing yards
+Rush_TDs,Rushing Touchdowns
+Rec,Receptions
+Rec_Yds,Recieving yards
+Rec_Tds,Recieving touchdowns
+Tkl,Tackles
+Def_Int,Defensive interceptions
+Sk,Sacks
+College/Univ,College or university player attended
+Height (in),Height of player at NFL Combine
+Weight (lbs),Weight of player at NFL Combine
+Hand Size (in),Hand Size of player at NFL Combine
+Arm Length (in),Arm length of player at NFL Combine
+Wonderlic,IQ test score
+40 Yard,40 yard dash time
+Bench Press,Number of bench press reps completed
+Vert Leap (in),Vertical leap in inches
+Broad Jump (in),Broad jump in inches
+Shuttle,"The player starts in a three-point stance and then runs five yards to his right, touches the ground, reverses and runs back 10 yards, touches the ground, before heading back five yards to the finish line."
+3Cone,"Designed to measure speed, agility, change of direction, body control among other traits."
+60Yd Shuttle,Same as shuttle but 60 yards instead of 20.
