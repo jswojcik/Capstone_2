@@ -1,0 +1,2 @@
+Model,Adjusted R2,Root Mean Squared Error,Features Dropped,Hyperparameters
+Gradient Boost,0.1029243352333381,67.47901041344434,season stats,"learning_rate=.02,max_depth=10,max_features='sqrt',min_samples_leaf=50,n_estimators=200,subsample=.3"
