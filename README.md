@@ -29,14 +29,16 @@ Separate by Player Position
 Since the Combine is more important for some positions, I decided to separate the dataset by player position to see if the models improved any.
 Unsurprisingly, quarterbacks had little to no predictive power. I was able to improve the model's score in wide receivers and running backs by using a ridge regression model and tuning hyperparameters.
 
-![image](C:\Users\Jake Wojcik\Documents\Springboard\DS Career Track Course\Capstone_2\Figures\model_comparison.png)
+![model_camparison](https://user-images.githubusercontent.com/61096314/94972921-a4833f80-04c7-11eb-871e-7780f9e330b3.png)
 
 We can see there is almost no predictive power in determining draft position for quarterbacks. It is a little surprising to see doing well on the Combine rarely has any effect in increasing one's chance of being drafted higher. 
+
+
 
 ## 7. Predictions: 
 Overall the best performing model still has little predictive power in determining draft position and, in turn, NFL success. Predictions were generally off by a fair amount (Figure 5,6). Being off by an average of ~59 picks is very bad considering each round is 32 picks. I would consider this model a success if it were able to predict the round drafted reasonably well, but here it's off by almost two whole rounds. 
 
-![image](C:\Users\Jake Wojcik\Documents\Springboard\DS Career Track Course\Capstone_2\Figures\predictions_rb.png)
+![predictions_rb](https://user-images.githubusercontent.com/61096314/94972927-a6e59980-04c7-11eb-8f4f-292afd09e753.png)
 
 ## 8. Conclusions: 
 * Raw athleticism may not be as critical as casual NFL fans claim it to be. 
