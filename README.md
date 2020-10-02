@@ -34,7 +34,6 @@ Unsurprisingly, quarterbacks had little to no predictive power. I was able to im
 We can see there is almost no predictive power in determining draft position for quarterbacks. It is a little surprising to see doing well on the Combine rarely has any effect in increasing one's chance of being drafted higher. 
 
 
-
 ## 7. Predictions: 
 Overall the best performing model still has little predictive power in determining draft position and, in turn, NFL success. Predictions were generally off by a fair amount (Figure 5,6). Being off by an average of ~59 picks is very bad considering each round is 32 picks. I would consider this model a success if it were able to predict the round drafted reasonably well, but here it's off by almost two whole rounds. 
 
