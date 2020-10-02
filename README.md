@@ -22,7 +22,7 @@ As for dealing with missing values, since dropping rows with any missing values 
 
 ![ECDF_av](https://user-images.githubusercontent.com/61096314/94972763-49514d00-04c7-11eb-84f9-864dc47919dd.png)
 
-![image](C:\Users\Jake Wojcik\Documents\Springboard\DS Career Track Course\Capstone_2\Figures\AV_pick.png)
+![AV_pick](https://user-images.githubusercontent.com/61096314/94972868-84538080-04c7-11eb-8dcf-9f4e631c2639.png)
 
 ## 6. Modeling:
 Separate by Player Position
