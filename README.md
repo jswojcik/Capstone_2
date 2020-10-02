@@ -20,7 +20,7 @@ As for dealing with missing values, since dropping rows with any missing values 
 * The data follows the pareto distribution
 * In general, higher draft picks have higher approximate values.
 
-![alt text](file://C:\Users\Jake Wojcik\Documents\Springboard\DS Career Track Course\Capstone_2\Figures\ECDF_av.png)
+![alt text](C:\Users\Jake Wojcik\Documents\Springboard\DS Career Track Course\Capstone_2\Figures\ECDF_av.png)
 
 ![image](C:\Users\Jake Wojcik\Documents\Springboard\DS Career Track Course\Capstone_2\Figures\AV_pick.png)
 
